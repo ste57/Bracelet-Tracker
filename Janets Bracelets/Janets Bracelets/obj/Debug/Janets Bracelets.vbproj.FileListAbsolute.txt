@@ -1,0 +1,19 @@
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Janets Bracelets.exe.config
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\Janets Bracelets.vbproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Bracelets.mdf
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Bracelets_log.ldf
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Janets Bracelets.exe
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Janets Bracelets.pdb
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\Janets Bracelets.xml
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\Janets Bracelets.exe
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\Janets Bracelets.xml
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\Janets Bracelets.pdb
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.FirstPage.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.MainPage.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.AddBracelets.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.AddOrder.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.CompleteOrder.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\WindowsApplication1.Records.resources
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\bin\Debug\ClosedXML.xml
+C:\Users\Stephen\Desktop\Visual Basic Projects\Janets Bracelets\Janets Bracelets\obj\Debug\Janets Bracelets.vbprojResolveAssemblyReference.cache
